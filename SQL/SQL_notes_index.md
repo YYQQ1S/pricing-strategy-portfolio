@@ -11,4 +11,6 @@
 | 2026-05-25 | LeetCode 197. 上升的温度 | 自连接，`DATEDIFF()` 或 `DATE_ADD()` | [查看](https://gist.github.com/YYQQ1S/1f2cc6446085efc346278431e74c3886) |
 | 2026-05-25 | LeetCode 1141 查询近30天活跃用户数 | `DATEDIFF()`、`COUNT(DISTINCT)`、`GROUP BY`、日期范围过滤 | [查看](https://gist.github.com/YYQQ1S/0b79cc4564d9e0d6bca92ff140ab7516) |
 | 2026-05-25 | LeetCode 550 游戏玩法分析 IV | `DATEDIFF()`、自连接、`MIN()`+`GROUP BY` 首次日期、`COUNT(DISTINCT)` 留存率计算、次日/7日/30日留存拓展 | [查看](https://gist.github.com/YYQQ1S/7c19c32afa4d573c613eed2bfc11f459) |
+| 2026-06-08 | LeetCode 1978. 上级经理已离职的公司员工 | `LEFT JOIN` 自连接、`IS NOT NULL` + `IS NULL` 组合过滤 | [查看](https://gist.github.com/YYQQ1S/99d24cd5c349381f5908b467ea7e8801) |
+| 2026-06-16 | LeetCode 1341. 电影评分 | `UNION ALL` 合并查询、`RANK()` 窗口函数、`GROUP BY` + `AVG()` 聚合、`BETWEEN` 日期过滤、`LEFT JOIN` | [查看](https://gist.github.com/YYQQ1S/待创建) |
 
